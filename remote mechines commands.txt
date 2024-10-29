@@ -1,0 +1,4 @@
+1) command to login remote mechines --MSTSC
+2) how to start  remote desktop from the command prompt  -- MSTSC /v:computerName
+3) how to login AWS by using  command in cloud machine
+
